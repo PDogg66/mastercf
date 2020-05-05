@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mastercf/static/css/main.745c6278.chunk.css",
+    "main.js": "/mastercf/static/js/main.1202168c.chunk.js",
+    "main.js.map": "/mastercf/static/js/main.1202168c.chunk.js.map",
+    "runtime-main.js": "/mastercf/static/js/runtime-main.97a8f612.js",
+    "runtime-main.js.map": "/mastercf/static/js/runtime-main.97a8f612.js.map",
+    "static/js/2.f0730d9f.chunk.js": "/mastercf/static/js/2.f0730d9f.chunk.js",
+    "static/js/2.f0730d9f.chunk.js.map": "/mastercf/static/js/2.f0730d9f.chunk.js.map",
+    "index.html": "/mastercf/index.html",
+    "precache-manifest.4a825ac0b15e24439e57616ae51b9de5.js": "/mastercf/precache-manifest.4a825ac0b15e24439e57616ae51b9de5.js",
+    "service-worker.js": "/mastercf/service-worker.js",
+    "static/css/main.745c6278.chunk.css.map": "/mastercf/static/css/main.745c6278.chunk.css.map",
+    "static/js/2.f0730d9f.chunk.js.LICENSE.txt": "/mastercf/static/js/2.f0730d9f.chunk.js.LICENSE.txt",
+    "static/media/Product.css": "/mastercf/static/media/backgr1.ecc9143b.png",
+    "static/media/logo.svg": "/mastercf/static/media/logo.5d5d9eef.svg",
+    "static/media/ytbicon.png": "/mastercf/static/media/ytbicon.ca65f745.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a8f612.js",
+    "static/js/2.f0730d9f.chunk.js",
+    "static/css/main.745c6278.chunk.css",
+    "static/js/main.1202168c.chunk.js"
+  ]
+}
